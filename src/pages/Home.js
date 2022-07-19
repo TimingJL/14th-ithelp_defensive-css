@@ -87,6 +87,10 @@ const blocks = [
     index: 14,
     title: 'Responsive Height Design'
   },
+  {
+    index: 15,
+    title: 'Using space-between'
+  },
 ];
 
 const formatNumber = (num) => {

@@ -15,6 +15,7 @@ import Day11 from './pages/Day11_using-fixed-height';
 import Day12 from './pages/Day12_using-fixed-width';
 import Day13 from './pages/Day13_forgetting-background-repeat';
 import Day14 from './pages/Day14_responsive-height-design';
+import Day15 from './pages/Day15_using-space-between';
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
       <Route path="/day12" element={<Day12 />} />
       <Route path="/day13" element={<Day13 />} />
       <Route path="/day14" element={<Day14 />} />
+      <Route path="/day15" element={<Day15 />} />
     </Routes>
   );
 }
