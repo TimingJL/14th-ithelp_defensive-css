@@ -53,7 +53,39 @@ const blocks = [
   },
   {
     index: 6,
-    title: 'Scrollable Element'
+    title: 'Image ratio'
+  },
+  {
+    index: 7,
+    title: 'Flexbox wrapping'
+  },
+  {
+    index: 8,
+    title: 'Long Content'
+  },
+  {
+    index: 9,
+    title: 'Short Content'
+  },
+  {
+    index: 10,
+    title: 'Lock Scroll Chaining'
+  },
+  {
+    index: 11,
+    title: 'Using Fixed Height'
+  },
+  {
+    index: 12,
+    title: 'Using Fixed Width'
+  },
+  {
+    index: 13,
+    title: 'Forgetting Background Repeat'
+  },
+  {
+    index: 14,
+    title: 'Responsive Height Design'
   },
 ];
 
