@@ -91,6 +91,14 @@ const blocks = [
     index: 15,
     title: 'Using space-between'
   },
+  {
+    index: 16,
+    title: 'Text Over Images'
+  },
+  {
+    index: 18,
+    title: 'Scrollbar Gutter'
+  },
 ];
 
 const formatNumber = (num) => {
